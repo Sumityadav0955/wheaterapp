@@ -1,0 +1,27 @@
+*{
+    
+}
+#weather-info{
+    height: 25em;
+    width: 20em;
+    display: flex;
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(240, 248, 255, 0.264);
+    border-radius: 4%;
+}
+body{
+    height: 100bh;
+    padding-top: 10%;
+    padding-left: 40%;
+    background-image: url(landscape-1844226_1280.png);
+}
+#loaction-input{
+    text-decoration-color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(240, 248, 255, 0.264);
+    border-radius: 4%;
+}
